@@ -33,3 +33,37 @@ a:hover{
   color:#f7b600;
   background:#fff;
 }
+section{
+  width:920px;
+  margin: 0 auto;
+  padding: 15px;
+}
+#post{
+  width: 660px;
+}
+#sidebar{
+  width: 240px;
+}
+#post{
+  float: left;
+}
+#sidebar{
+  float: right;
+}
+footer{
+  clear: both;
+  text-align: center;
+  background: #ccc;
+  padding: 15px;
+}
+.postagem{
+  padding: 20px;
+  margin-bottom: 20px;
+  background: white;
+}
+img{
+  width: 620px;
+}
+
+
+
